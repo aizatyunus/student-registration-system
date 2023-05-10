@@ -1,0 +1,72 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+body{
+  margin:0 ;
+  padding: 0;
+}
+
+.wrapper {
+  display: flex;
+}
+
+.left-side {
+  flex: 0;
+}
+
+.right-side {
+  flex: 1;
+}
+
+.home{
+  text-align: center;
+}
+
+.courselist{
+  text-align: center;
+}
+/* .sidebar-wrapper {
+  height: 100%;
+  width: 250px;
+  background-color: #2f4050;
+  color: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.p-megamenu-root-list > li {
+  margin-bottom: 10px;
+}
+
+.custom-megamenu {
+  background-color: #2f4050 !important;
+  color: #fff !important;
+}
+
+.custom-megamenu .p-menuitem-text {
+  color: #fff !important;
+}
+
+.custom-megamenu .p-menuitem-icon {
+  color: #fff !important;
+}
+
+.custom-megamenu .p-megamenu {
+  border-color: #2f4050 !important;
+}
+
+.custom-megamenu .p-megamenuitem > a:hover {
+  background-color: #1c2533 !important;
+}
+
+.custom-megamenu .p-megamenuitem > a:hover .p-menuitem-text {
+  color: #ffffff !important;
+} */
